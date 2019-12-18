@@ -1,13 +1,15 @@
-# Demo
-This is my first repo. 
-- Point 1 
-- Point 2 
-___
+# My Repo for latest project at INSAID
 
-```
-print("Hello World")
-```
----
-____
-----
-_____
+## Here is the list of all projects 
+
+- Finance
+- Accounts 
+- Banking 
+- Energy 
+
+
+|  Finance Pr:sparkling_heart:ject |   |
+| ------------ | ------------ |
+|   |  Accounts |
+|  BAnking |  |
+|   |  Energy |
