@@ -10,6 +10,6 @@
 
 |  Finance Pr:sparkling_heart:ject |   |
 | ------------ | ------------ |
-|   |  Accounts |
-|  BAnking |  |
-|   |  Energy |
+| :exclamation:  |  Accounts |
+|  BAnking | :smiley: |
+|  :sleeping: |  Energy |
